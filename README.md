@@ -12,10 +12,13 @@
 
 ## Screenshots
 
-![Screenshot 1](assets/images/1.jpg)
-![Screenshot 2](assets/images/2.jpg)
-![Screenshot 3](assets/images/3.jpg)
-![Screenshot 4](assets/images/4.jpg)
+<img src="assets/images/1.jpg" alt="Splash Page" width="300"/>
+
+<img src="assets/images/2.jpg" alt="Posts Page" width="300"/>
+
+<img src="assets/images/3.jpg" alt="Form Page" width="300"/>
+
+<img src="assets/images/4.jpg" alt="Counter Page" width="300"/>
 
 ## Packages Used :
 
